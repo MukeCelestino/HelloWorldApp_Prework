@@ -38,7 +38,7 @@ Describe any challenges encountered while building the app.
 
 * [x] Adjusting the image to the right size.
 * [x] Aligning the Text, button and image.
-* [ ] Pulling to the file on my system form github.
+* [x] Pulling and pushing the files between local and remote.
 
 ## License
 
